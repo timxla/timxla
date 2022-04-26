@@ -3,7 +3,7 @@
 ```diff
 Tim's Github.
 
-**CSE at ERICA 💻**
+<strong>CSE at ERICA 💻</strong>
 
 + Located in South Korea
 + A former Los Angeles inhibitor
