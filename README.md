@@ -6,6 +6,6 @@ Tim's Github.
 CSE at ERICA 💻
 
 + Located in South Korea
-+ A former Los Angeles inhibitor
++ Los Angeles inhibitor
 + 📖 computer science
 ```
