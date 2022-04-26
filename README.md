@@ -3,8 +3,9 @@
 ```diff
 Tim's Github.
 
-@@CSE at ERICA@@
+**CSE at ERICA 💻**
+
 + Located in South Korea
-+ Los Angeles inhibitor
-# 📖 computer science
++ A former Los Angeles inhibitor
++ 📖 computer science
 ```
